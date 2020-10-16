@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40421" started-at="2020-10-06T20:29:37 EDT" finished-at="2020-10-06T20:30:17 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40421" started-at="2020-10-06T20:29:37 EDT" finished-at="2020-10-06T20:30:17 EDT">
+      <class name="com.qa.hubspot.test.LoginPageTest1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="setup" is-config="true" duration-ms="8571" started-at="2020-10-06T20:29:37 EDT" finished-at="2020-10-06T20:29:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signUpLinkIsDisplayed()[pri:1, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="signUpLinkIsDisplayed" duration-ms="217" started-at="2020-10-06T20:29:45 EDT" finished-at="2020-10-06T20:29:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpLinkIsDisplayed -->
+        <test-method status="PASS" signature="tearDOwn1()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="tearDOwn1" is-config="true" duration-ms="189" started-at="2020-10-06T20:29:46 EDT" finished-at="2020-10-06T20:29:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDOwn1 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="setup" is-config="true" duration-ms="7417" started-at="2020-10-06T20:29:46 EDT" finished-at="2020-10-06T20:29:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTitleVerify()[pri:2, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="loginPageTitleVerify" duration-ms="15" started-at="2020-10-06T20:29:53 EDT" finished-at="2020-10-06T20:29:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleVerify -->
+        <test-method status="PASS" signature="tearDOwn1()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="tearDOwn1" is-config="true" duration-ms="250" started-at="2020-10-06T20:29:53 EDT" finished-at="2020-10-06T20:29:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDOwn1 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="setup" is-config="true" duration-ms="7252" started-at="2020-10-06T20:29:53 EDT" finished-at="2020-10-06T20:30:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="doLoginVerify()[pri:3, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="doLoginVerify" duration-ms="863" started-at="2020-10-06T20:30:01 EDT" finished-at="2020-10-06T20:30:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginVerify -->
+        <test-method status="PASS" signature="tearDOwn1()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="tearDOwn1" is-config="true" duration-ms="241" started-at="2020-10-06T20:30:02 EDT" finished-at="2020-10-06T20:30:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDOwn1 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="setup" is-config="true" duration-ms="7350" started-at="2020-10-06T20:30:02 EDT" finished-at="2020-10-06T20:30:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyForgotPasswordLink()[pri:4, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="verifyForgotPasswordLink" duration-ms="136" started-at="2020-10-06T20:30:09 EDT" finished-at="2020-10-06T20:30:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordLink -->
+        <test-method status="PASS" signature="tearDOwn1()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="tearDOwn1" is-config="true" duration-ms="223" started-at="2020-10-06T20:30:09 EDT" finished-at="2020-10-06T20:30:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDOwn1 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="setup" is-config="true" duration-ms="7273" started-at="2020-10-06T20:30:10 EDT" finished-at="2020-10-06T20:30:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyShowPasswordLink()[pri:5, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="verifyShowPasswordLink" duration-ms="175" started-at="2020-10-06T20:30:17 EDT" finished-at="2020-10-06T20:30:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShowPasswordLink -->
+        <test-method status="PASS" signature="tearDOwn1()[pri:0, instance:com.qa.hubspot.test.LoginPageTest1@1d29cf23]" name="tearDOwn1" is-config="true" duration-ms="166" started-at="2020-10-06T20:30:17 EDT" finished-at="2020-10-06T20:30:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDOwn1 -->
+      </class> <!-- com.qa.hubspot.test.LoginPageTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
